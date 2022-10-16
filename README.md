@@ -1,7 +1,7 @@
 # Time-Series-Analysis-Forecasting
 Files for 6 week online course on TS Analysis and Forecasting
 
-# Week 1
+## Week 1
 + Handling Dates and Time in Python
  - Datetime, Timestamp and datetime64 
  - Date Arithmetic
@@ -20,7 +20,7 @@ Files for 6 week online course on TS Analysis and Forecasting
 - Visualization 
 
 
-#Week 2
+## Week 2
 + STL Decomposition 
   - Additive
   - Multiplicative
@@ -29,7 +29,7 @@ Files for 6 week online course on TS Analysis and Forecasting
 + Exponential Smoothing Methods
 + Forecasting Error 
 
-#Week 3
+## Week 3
 + Univariate Time Series Models
   - Stationarity
   - Box Jenkins Transformation
@@ -39,7 +39,7 @@ Files for 6 week online course on TS Analysis and Forecasting
 - AR models
 - MA models
 
-#Week 4
+## Week 4
 AutoRegressive Forecasting Techniques
 + ARIMA models
   - Model Selection
@@ -48,7 +48,7 @@ AutoRegressive Forecasting Techniques
 + ARIMAX model
 + Granger Causality
 
-#Week 5
+## Week 5
 + Advanced Models
 + ARCH 
 + GARCH 
@@ -56,7 +56,7 @@ AutoRegressive Forecasting Techniques
 + BSTS 
 + Vector Auto Regression models
 
-#Weeek 6
+## Weeek 6
 + TS Feature Engineering
 + Machine Learning Techniques
  - Bootstrapping
