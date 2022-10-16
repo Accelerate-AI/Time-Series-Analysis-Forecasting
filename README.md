@@ -1,6 +1,6 @@
 # Time-Series-Analysis-Forecasting
 Files for 6 week online course on TS Analysis and Forecasting.
-Course Registration link: https://www.mlpro.in/s/store/courses/description/Time-Series-Analysis-and-Forecasting 
+ - Course Registration link: https://www.mlpro.in/s/store/courses/description/Time-Series-Analysis-and-Forecasting 
 
 
 ## Week 1
